@@ -1,7 +1,7 @@
 function convertNumber(yes) {
 
     if (yes === 1){
-        return 'II'
+        return 'I'
     }else if (yes === 'I'){
         return 1
     }else if (yes === 2){
